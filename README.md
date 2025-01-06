@@ -12,11 +12,9 @@
     I’m on a journey to explore the ever-changing realm of cybersecurity, while actively contributing to open-source projects that make a difference. Constantly sharpening my skills through real-world challenges and discoveries, my GitHub is a space where I share my personal projects, CTF labs, and contributions to the tech community. Let’s innovate, collaborate, and grow together!
 </p>
 
-
-![GitHub followers](https://img.shields.io/github/followers/isuru-madhushan?style=social&color=00BFFF)
-![GitHub User's stars](https://img.shields.io/github/stars/isuru-madhushan?style=social&color=FF1493)
-<img src="https://komarev.com/ghpvc/?username=isuru-madhushan&color=32CD32&style=social" alt="isuru-madhushan" />
-
+![GitHub followers](https://img.shields.io/github/followers/isuru-madhushan?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/isuru-madhushan?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=isuru-madhushan.repoName)
 
 </div>
 
